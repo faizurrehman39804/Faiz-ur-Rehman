@@ -1,0 +1,6 @@
+{
+  "name": "PropDesk - Real Estate Dealer System (Peshawar MVP)",
+  "description": "Clickable MVP sales demo for real estate dealers in Peshawar, featuring inventory, leads CRM, installment schedules, plot maps, and dual English/Urdu RTL interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
